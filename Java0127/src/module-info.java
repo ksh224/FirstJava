@@ -1,2 +1,2 @@
-module Java0127 {
+module Java0127 {java
 }
